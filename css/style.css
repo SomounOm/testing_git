@@ -1,7 +1,9 @@
 h2{
     color: blueviolet;
 }
-h1{
-    background: rgb(71, 128, 182);
+.container > form > button{
+    background: rgb(54, 65, 224);
+    color: black;
+    border: rebeccapurple;
 
 }
